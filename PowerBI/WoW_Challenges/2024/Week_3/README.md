@@ -23,4 +23,4 @@ What I learned/practiced this week:
 </a>
 
 
-<i>Design features inspired by cover art for the album Rock-Star by Stray Kids</i>
+<i>design features inspired by cover art for the album Rock-Star by Stray Kids</i>
