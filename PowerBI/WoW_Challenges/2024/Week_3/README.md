@@ -11,6 +11,7 @@ What I learned/practiced this week:
 - Using the ALLEXCEPT function
 - The difference between the functions MAX and MAXX
 
+
 <i>right click the image to view the interactive chart/dashboard</i><br>
 <br>
 <a href="https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Workout-Wednesday-2024-Week-3/m-p/3924177#M12531" target="_blank">
