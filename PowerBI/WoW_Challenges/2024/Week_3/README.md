@@ -12,7 +12,7 @@ What I learned/practiced this week:
 - The difference between the functions MAX and MAXX
 
 
-<i>right click the image to view the interactive chart/dashboard</i><br>
+<i>right click the image to view the interactive chart/dashboard in new tab</i><br>
 <br>
 <a href="https://community.fabric.microsoft.com/t5/Data-Stories-Gallery/Workout-Wednesday-2024-Week-3/m-p/3924177#M12531" target="_blank">
 <img src="PBI WoW 2024 wk 3 a.png?raw=true" alt="PowerBI Chart/Dashboard">
